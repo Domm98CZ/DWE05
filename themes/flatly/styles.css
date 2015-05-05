@@ -1,0 +1,32 @@
+/*
+Bootstrap 3.1 overrides from http://bootply.com
+
+This CSS code should follow the 'bootstrap.css'
+in your HTML file.
+
+license: MIT
+author: bootply.com
+*/
+
+body {
+  padding-top: 70px;
+  background:#c5c5c5;
+  background-size:100%;
+  background-position:center;
+}
+
+
+.header {
+  height: 100px;
+  width: 100%;
+  overflow: hidden;
+}
+
+a.grou_label
+{
+  text-decoration:none;
+}
+a.grou_label:*
+{
+  text-decoration:none;
+}
